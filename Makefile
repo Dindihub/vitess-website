@@ -6,7 +6,15 @@ production-build: install
 	--minify \
 	--verbose
 
+# preview-build: install
+# 	$(HUGO) --cleanDestinationDir -e dev \
+# 	--buildDrafts \
+# 	--buildFuture \
+# 	--baseURL $(DEPLOY_PRIME_URL) \
+# 	--minify
+
 preview-build: install
+	@echo "DEPLOY_PRIME_URL=$(DEPLOY_PRIME_URL)"
 	$(HUGO) --cleanDestinationDir -e dev \
 	--buildDrafts \
 	--buildFuture \
