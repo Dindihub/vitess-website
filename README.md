@@ -1,5 +1,5 @@
 # The Vitess website
-
+[![Netlify Status](https://api.netlify.com/api/v1/badges/b3bcaec5-2ef4-40d2-9b40-a833b3457b3c/deploy-status)](https://app.netlify.com/projects/vitess-demo-docs/deploys)
 
 
 
