@@ -3,7 +3,7 @@
 
 
 
-This repo houses the assets used to build the website at https://vitess.io.
+This repo houses the assets used to build the website at https://vitess-demo-docs.netlify.app/
 
 ## Running the site locally
 
