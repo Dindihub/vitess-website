@@ -1,7 +1,7 @@
 ---
 title: PR Naming Conventions
 description: A naming convention for GitHub pull requests
-weight: 1
+weight: 2
 ---
 
 ## Background
