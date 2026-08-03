@@ -18,7 +18,7 @@ Each major release is maintained for 1 year.
 ## Release History
 
 ### v25.0 (Development)
-> Vitess v25.0 in Development 
+> Vitess v25.0 in development 
 
 
 ### v24.0 (Stable)
